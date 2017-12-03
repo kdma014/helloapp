@@ -1,0 +1,24 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.allsocial.nametest"
+    },
+    "cordova-plugin-contacts": {
+      "PACKAGE_NAME": "com.allsocial.nametest"
+    },
+    "cordova-plugin-sms": {
+      "PACKAGE_NAME": "com.allsocial.nametest"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.allsocial.nametest"
+    }
+  },
+  "dependent_plugins": {}
+}
